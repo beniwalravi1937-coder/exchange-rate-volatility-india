@@ -22,3 +22,14 @@ Variables analyzed:
 • Inflation rate
 • GDP growth rate
 • Trade deficit
+
+## Statistical Methods
+
+Log Return Formula:
+ln(Et / Et-1)
+
+Statistical Tests:
+
+ANOVA (Single Factor)
+
+Bonferroni Post Hoc Test
